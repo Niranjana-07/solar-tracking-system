@@ -30,3 +30,15 @@ Motors: Servo or stepper motors for panel movement.
 PID Controller: To control motor speed and position.
 Solar Panel: To generate electricity from sunlight.
 Power Supply: To power the components
+
+Hardware Requirements:
+Arduino/ESP32 or any other microcontroller
+4 x LDR sensors
+2 x Servo motors/Stepper motors
+Solar panel
+Resistors, wires, and other electronic components
+Power supply (Battery/Solar-powered)
+Software Requirements:
+Arduino IDE (for coding and uploading sketches)
+PID control library (if applicable)
+Serial monitor or external display (optional for debugging and monitoring)
